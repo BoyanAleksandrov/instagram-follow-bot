@@ -1,0 +1,2 @@
+# instagram-follow-bot
+Automated Instagram bot to like and follow people based on given hashtags and locations for Instagram... Bot can be used in several Instagram growing strategies including F4F or more commonly known as follow for follow You need to install chromedriver according to your Google browser version  Put your instagram username and password in the "Config.py" file  For better results I recommend setting up the bot with a task scheduler to rund every 30 min / 1 hour based on your Instagram's account history and growth  (there is one integrated on windows)
